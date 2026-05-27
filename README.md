@@ -9,4 +9,4 @@ An interactive Streamlit app for pricing options using the Black-Scholes model. 
 - P&L heatmaps across spot price and volatility
 - Payoff diagrams (at expiry vs current value)
 - Sensitivity charts for all Greeks
-- Fully interactive - very input updates the whole dashboard
+
